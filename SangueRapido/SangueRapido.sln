@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SangueRapido", "SangueRapido\SangueRapido.csproj", "{970F4AE6-618D-4280-90DC-99181CF5FEA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SangueRapido-Negocio", "SangueRapido-Negocio\SangueRapido-Negocio.csproj", "{DC007C3E-CEA8-418C-9D38-FB85171AF56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SangueRapido-Dados", "SangueRapido-Dados\SangueRapido-Dados.csproj", "{45518D3E-A19E-4E3D-BCF6-1794D29CBEAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{970F4AE6-618D-4280-90DC-99181CF5FEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{970F4AE6-618D-4280-90DC-99181CF5FEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{970F4AE6-618D-4280-90DC-99181CF5FEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC007C3E-CEA8-418C-9D38-FB85171AF56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC007C3E-CEA8-418C-9D38-FB85171AF56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC007C3E-CEA8-418C-9D38-FB85171AF56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC007C3E-CEA8-418C-9D38-FB85171AF56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45518D3E-A19E-4E3D-BCF6-1794D29CBEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45518D3E-A19E-4E3D-BCF6-1794D29CBEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45518D3E-A19E-4E3D-BCF6-1794D29CBEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45518D3E-A19E-4E3D-BCF6-1794D29CBEAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
